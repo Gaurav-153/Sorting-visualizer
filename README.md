@@ -23,4 +23,6 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
    
 3) Time and Space complexity of algorithm being visualized.
-![Sorting Visualizer](https://github.com/Gaurav-153/ChatApp/blob/b97cbeeff4ee3a563e7b5345ef406a8e3d7801c7/Screenshot%20(1).png)
+
+
+![Sorting Visualizer](https://github.com/Gaurav-153/Sorting-visualizer/blob/01d6a7d8853f6be015ead1b4440b417d678529c6/Output.PNG)
